@@ -1,0 +1,18 @@
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\bin\Debug\Bing Maps with Pushpin.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\bin\Debug\Bing Maps with Pushpin.exe
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\bin\Debug\Bing Maps with Pushpin.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing_Maps_with_Pushpin.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.exe
+C:\Users\Kenneth\Desktop\ict project\projects\bing maps with puspin\Bing Maps with Pushpin\obj\Debug\Bing Maps with Pushpin.pdb

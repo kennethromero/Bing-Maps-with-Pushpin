@@ -3,10 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Bing_Maps_with_Pushpin"
+        xmlns:local="clr-namespace:Bing_Maps_with_Pushpin" xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <m:Map Name="Map" CredentialsProvider="tnHgFVeuiStdw5OUV1KD~w4jBYzOQcsdbiT_K83z6_A~Au5_K6NpOEOTAD-7FRSEoWkitP6yseXuqudj-fmNcbc1Dv0qXNv7bZB3x2af-88S" MouseDoubleClick="Map_MouseDoubleClick"/>
     </Grid>
 </Window>
